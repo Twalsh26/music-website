@@ -1,0 +1,22 @@
+.d-block{
+    height: 700px;
+}
+
+img {
+    height: 180px;
+}
+
+.bg-color {
+    background: rgb(255,0,0);
+    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,0,211,1) 50%, rgba(228,255,0,1) 100%);
+}
+
+.wu-bg {
+    background: rgb(255,209,0);
+    background: radial-gradient(circle, rgba(255,209,0,1) 0%, rgba(255,0,0,1) 100%);
+}
+
+.wu-text  {
+    color: rgb(255, 255, 255);
+    background: black;
+}
