@@ -7,8 +7,8 @@ img {
 }
 
 .bg-color {
-    background: rgb(255,0,0);
-    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,0,211,1) 50%, rgba(228,255,0,1) 100%);
+    background: rgb(255,209,0);
+    background: radial-gradient(circle, rgba(255,209,0,1) 0%, rgba(255,74,74,1) 50%, rgba(255,0,244,1) 100%);
 }
 
 .wu-bg {
@@ -16,7 +16,48 @@ img {
     background: radial-gradient(circle, rgba(255,209,0,1) 0%, rgba(255,0,0,1) 100%);
 }
 
-.wu-text  {
-    color: rgb(255, 255, 255);
-    background: black;
+#nav-logo
+{
+height: 115px;
+}
+
+.TW-bg {
+    background: rgb(0,252,255);
+background: linear-gradient(0deg, rgba(0,252,255,1) 0%, rgba(192,45,253,1) 100%);
+}
+
+.D-bg {
+    background: rgb(46,255,250);
+background: linear-gradient(0deg, rgba(46,255,250,1) 0%, rgba(255,247,166,1) 75%);
+}
+
+.TS-bg {
+    background: rgb(205,0,0);
+background: radial-gradient(circle, rgba(205,0,0,1) 0%, rgba(89,89,89,1) 100%);
+}
+
+.MW-bg {
+    background: rgb(15,15,15);
+    background: linear-gradient(177deg, rgba(15,15,15,1) 0%, rgba(186,130,114,1) 50%, rgba(235,235,235,1) 100%);
+}
+
+.y-bg{
+    background: rgb(166,255,131);
+background: radial-gradient(circle, rgba(166,255,131,1) 0%, rgba(8,82,0,1) 100%);
+}
+
+
+.JW-bg {
+    background: rgb(255,252,131);
+background: radial-gradient(circle, rgba(255,252,131,1) 0%, rgba(255,0,201,1) 100%);
+}
+
+.SD-bg {
+    background: rgb(105,255,36);
+background: radial-gradient(circle, rgba(105,255,36,1) 0%, rgba(77,77,77,1) 100%);
+}
+
+.KL-bg {
+    background: rgb(255,198,0);
+background: radial-gradient(circle, rgba(255,198,0,1) 0%, rgba(146,0,255,1) 100%);
 }
