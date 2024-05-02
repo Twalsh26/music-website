@@ -61,3 +61,39 @@ background: radial-gradient(circle, rgba(105,255,36,1) 0%, rgba(77,77,77,1) 100%
     background: rgb(255,198,0);
 background: radial-gradient(circle, rgba(255,198,0,1) 0%, rgba(146,0,255,1) 100%);
 }
+
+.FS-bg {
+    background: rgb(255,255,255);
+background: radial-gradient(circle, rgb(111, 107, 107) 0%, rgba(0,232,255,1) 100%);
+}
+
+.IC-bg {
+    background: rgb(0,180,178);
+    background: radial-gradient(circle, rgba(0,180,178,1) 0%, rgba(0,59,144,1) 100%);
+}
+
+.E-bg {
+    background: rgb(249,255,91);
+    background: radial-gradient(circle, rgba(249,255,91,1) 0%, rgba(0,0,0,1) 100%);
+}
+
+.U-bg {
+    background: rgb(124,85,0);
+background: radial-gradient(circle, rgba(124,85,0,1) 0%, rgba(158,158,158,1) 100%);
+}
+
+.MJ-bg {
+    background: rgb(255,0,0);
+background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 100%);
+}
+
+.BS-bg {
+    background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 100%);
+}
+
+
+.WS-bg {
+    background: rgb(156,156,156);
+    background: linear-gradient(180deg, rgba(156,156,156,1) 10%, rgba(255,0,134,1) 25%, rgba(255,115,0,1) 50%, rgba(255,226,0,1) 75%, rgba(14,255,0,1) 100%);
+}
