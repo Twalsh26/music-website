@@ -196,10 +196,47 @@ background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 100%);
     background-color: rgb(88, 176, 0);
 }
 
-.btn-eminem {
+.btn-eminem:hover {
     background-color: rgb(183, 175, 85);
 }
 
-.btn-eminem:hover {
+.btn-eminem {
     background-color: rgb(179, 165, 85);
 }
+
+.btn-usher:hover {
+    background-color: rgb(139, 93, 0);
+}
+
+.btn-usher {
+    background-color: rgb(125, 83, 0);
+}
+
+.btn-MJ:hover {
+    background-color: rgb(219, 94, 94);
+}
+
+.btn-MJ {
+    background-color: rgb(199, 89, 89);
+}
+
+.btn-biggie:hover {
+    background-color: rgb(194, 194, 194);
+}
+
+.btn-biggie {
+    background-color: rgb(164, 164, 164);
+}
+
+.btn-BT {
+    background: rgb(91,255,0);
+background: linear-gradient(97deg, rgba(91,255,0,1) 0%, rgba(0,255,140,1) 100%);
+}
+
+.btn-BT:hover {
+    background: rgb(79,255,175);
+    background: linear-gradient(97deg, rgba(79,255,175,1) 0%, rgba(142,255,80,1) 100%);
+}
+
+
+
